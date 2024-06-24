@@ -349,7 +349,7 @@ a{text-decoration: none; color: #292a2b;}
     #footer .foot-sns{position: static; right: 0; top: 0px;}
     #footer .foot-sns a{margin: 30px 30px;}
 
-    #footer .foot-info{font-size: 12px;letter-spacing:-3%;}
+    #footer .foot-info{font-size: 12px;letter-spacing:-0.1em;}
     #footer .foot-info .copyright{margin-top: 10px; color: gray;}
 
 }
